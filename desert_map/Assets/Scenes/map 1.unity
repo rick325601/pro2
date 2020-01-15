@@ -21148,6 +21148,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentTime: 120
+  index: 1
+  levelName: eindscerm
   CountDownText: {fileID: 1645374418}
 --- !u!114 &1645374418
 MonoBehaviour:

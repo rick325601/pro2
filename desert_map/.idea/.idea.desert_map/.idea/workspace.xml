@@ -2,31 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d44d3aed-8254-428b-a7da-cefe395bd7e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.desert_map/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prototype-4/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.desert_map/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.desert_map/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.desert_map/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.desert_map/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/StartScreen.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/StartScreen.unity.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/map 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/map 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ButtonColorChange.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ButtonColorChange.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/CountdownTimer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/CountdownTimer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/929253-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/929253-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/3bbc9a-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/3bbc9a-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/00/0000000000000000b000000000000000" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/00/0000000000000000b000000000000000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/5c/5c307de6daf1a6442993292b7e8d5dd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/5c/5c307de6daf1a6442993292b7e8d5dd1.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a9/a94b053b833ce50499d997d63965cb73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a9/a94b053b833ce50499d997d63965cb73.info" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/e3/e3fc59fda6016e94abb7af80193682ec" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/e3/e3fc59fda6016e94abb7af80193682ec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe10.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe10.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe11.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe11.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe8.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe8.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe9.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe9.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +43,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/TargetScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/ExplosiveBarrelScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/DebrisScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ButtonColorChange.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/CountdownTimer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ScoreScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -56,8 +55,8 @@
         <option value="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/AutomaticGunScriptLPFP.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ButtonColorChange.cs" />
         <option value="$USER_HOME$/Downloads/CountDownTimer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/CountdownTimer.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CountdownTimer.cs" />
       </list>
     </option>
   </component>
@@ -96,6 +95,7 @@
       <workItem from="1576656202987" duration="3454000" />
       <workItem from="1578471855651" duration="1385000" />
       <workItem from="1578473473986" duration="1780000" />
+      <workItem from="1579082934067" duration="1625000" />
     </task>
     <servers />
   </component>

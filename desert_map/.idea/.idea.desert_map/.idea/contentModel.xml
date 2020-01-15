@@ -51,7 +51,6 @@
           </e>
         </e>
         <e p="Script" t="Include">
-          <e p="ButtonColorChange.cs" t="Include" />
           <e p="CountdownTimer.cs" t="Include" />
           <e p="MainMenu.cs" t="Include" />
           <e p="ScoreScript.cs" t="Include" />
